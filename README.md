@@ -1,16 +1,30 @@
-# archith_project
+1. Loan Calculator Flutter
 
-A new Flutter project.
+This is a Flutter-based Loan Calculator application that calculates loan details such as fees, revenue share percentage, expected transfers, and completion date based on user inputs. The app integrates with an external API to dynamically fetch configuration data such as loan limits, revenue share limits, etc.
 
-## Getting Started
+2. Prerequisites:
 
-This project is a starting point for a Flutter application.
+    Flutter SDK: Download and install Flutter from [flutter.dev](https://flutter.dev/docs/get-started/install).
+    Dart: Dart comes with Flutter SDK.
+    IDE: You can use any IDE, but I recommend:
+    [VSCode](https://code.visualstudio.com/) with Flutter and Dart extensions
+    Web Browser: A browser like Chrome to run the app on the web.
 
-A few resources to get you started if this is your first Flutter project:
+3. Installation and Setup:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Follow these steps to set up the project on your local machine:
+Clone the repository**:
+   ```bash
+   git clone https://github.com/archith943/loan_calculator_flutter.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. Navigate to the project directory
+    cd loan_calculator_flutter
+
+5. Install dependencies: Use the following command to install the required dependencies:
+    flutter pub get
+
+6. Run the application: To run the app in a browser (Chrome), use the following command:
+    flutter run -d chrome
+
+
+
