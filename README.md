@@ -1,6 +1,6 @@
 1. Loan Calculator Flutter
 
-This is a Flutter-based Loan Calculator application that calculates loan details such as fees, revenue share percentage, expected transfers, and completion date based on user inputs. The app integrates with an external API to dynamically fetch configuration data such as loan limits, revenue share limits, etc.
+This Flutter-based Loan Calculator application calculates loan details such as fees, revenue share percentage, expected transfers, and completion date based on user inputs. The app integrates with an external API to dynamically fetch configuration data such as loan and revenue share limits.
 
 2. Prerequisites:
 
@@ -13,7 +13,7 @@ This is a Flutter-based Loan Calculator application that calculates loan details
 3. Installation and Setup:
 
 Follow these steps to set up the project on your local machine:
-Clone the repository**:
+Clone the repository:
    ```bash
    git clone https://github.com/archith943/loan_calculator_flutter.git
 
